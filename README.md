@@ -5,8 +5,8 @@ I tried using different programming languages:
 
 ### 2015
 01. Python
-02. 
-03. 
+02. Python  
+03. Python 
 04. 
 05. 
 06. 
