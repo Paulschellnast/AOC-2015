@@ -4,7 +4,7 @@ My Solutions for [AdventOfCode](https://adventofcode.com)
 I tried using different programming languages:
 
 ### 2015
-01. 
+01. Python
 02. 
 03. 
 04. 
