@@ -7,8 +7,8 @@ I tried using different programming languages:
 01. Python
 02. Python  
 03. Python 
-04. 
-05. 
+04. Python  
+05. Python  
 06. 
 07. 
 08. 
