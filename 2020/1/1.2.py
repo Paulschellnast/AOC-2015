@@ -13,7 +13,6 @@ with open("solution.txt", "r") as r:
                     test = [(i.split("\n")[0]) for i in test]
                     liste = list(map(int, test))
                     nodublica = list(dict.fromkeys(liste))
-                    print(nodublica)
                     def finalcalc(nodublica):
                         result = 1
                         for x in nodublica:
